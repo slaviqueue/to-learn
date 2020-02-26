@@ -24,3 +24,7 @@
 
 ### компилеры
 - [ ] Modern Compiler Implementation in ML
+
+
+### дисмат
+- [ ] [Discrete mathematics](https://www.youtube.com/playlist?list=PLDDGPdw7e6Ag1EIznZ-m-qXu4XX3A0cIz)
