@@ -21,7 +21,7 @@
 - [ ] [Вывод типов от Хиндли-Милнера до GHC 8.8](https://www.youtube.com/watch?v=_HYI7zjkrEs)
 - [ ] [Модель типизации Хиндли — Милнера и пример её реализации на языке Haskell](http://www.fprog.ru/2010/issue5/roman-dushkin-hindley-milner/)
 - [ ] [Generalizing Hindley-Milner Type Inference Algorithms](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.18.9348&rep=rep1&type=pdf)
-- [ ] [Types And Programming Languages](https://www.google.com/url?sa=t&source=web&rct=j&url=https://theswissbay.ch/pdf/Gentoomen%2520Library/Maths/Comp%2520Sci%2520Math/Benjamin_C._Pierce-Types_and_Programming_Languages-The_MIT_Press%25282002%2529.pdf&ved=2ahUKEwjdmPyNg_fnAhWss4sKHbXsAwQQFjAAegQIAxAB&usg=AOvVaw3hJVt7n2IxxoBACiCtXmlq)
+- [ ] B. Pierce "Types And Programming Languages"
 
 ### компилеры
 - [ ] Modern Compiler Implementation in ML
