@@ -4,7 +4,7 @@
 - [ ] [sicp](http://newstar.rinet.ru/~goga/sicp/sicp.pdf)
 
 ### архитекча
-- [ ] [clean architecture](https://www.twirpx.com/file/2334249/)
+- [x] [clean architecture](https://www.twirpx.com/file/2334249/)
 - [x] clean code
 - [ ] gof design patterns
 - [ ] шаблоны корпоративных приложений
