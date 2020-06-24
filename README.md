@@ -8,6 +8,7 @@
 - [x] clean code
 - [ ] gof design patterns
 - [ ] шаблоны корпоративных приложений
+- [ ] Предметно-ориентированные языки программирования – Фаулер Мартин
 
 ### всякое
 - [x] [идеальный программист](https://www.bambook.com/book/rus/idealnyiy-programmist-kak-stat-professionalom-razrabotki-po-1807659?gclid=CjwKCAiAhc7yBRAdEiwAplGxX9Cwg_yIGSStY8sw7SNaERhGAkY7A25BM2gPCuRqWA20vBVHF2C0VBoCP0QQAvD_BwE)
