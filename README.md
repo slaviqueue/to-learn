@@ -29,6 +29,7 @@
 - [ ] B. Pierce "Types And Programming Languages"
 - [ ] Developing a Monadic Type Checker for an
 Object-Oriented Language: An Experience Report
+- [ ] [Subtype inference](https://blog.polybdenum.com/2020/07/04/subtype-inference-by-example-part-1-introducing-cubiml.html)
 
 ### компилеры
 - [ ] Modern Compiler Implementation in ML
