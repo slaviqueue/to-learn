@@ -7,7 +7,7 @@
 - [x] [clean architecture](https://www.twirpx.com/file/2334249/)
 - [x] clean code
 - [ ] gof design patterns
-- [ ] шаблоны корпоративных приложений
+- [x] шаблоны корпоративных приложений
 - [ ] Предметно-ориентированные языки программирования – Фаулер Мартин
 - [x] [https://12factor.net/](https://12factor.net/)
 
