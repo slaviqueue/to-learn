@@ -23,7 +23,6 @@
 
 ### типы
 
-- [ ] [Модель типизации Хиндли — Милнера и пример её реализации на языке Haskell](http://www.fprog.ru/2010/issue5/roman-dushkin-hindley-milner/)
 - [ ] [Generalizing Hindley-Milner Type Inference Algorithms](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.18.9348&rep=rep1&type=pdf)
 - [ ] B. Pierce "Types And Programming Languages"
 - [ ] Developing a Monadic Type Checker for an
