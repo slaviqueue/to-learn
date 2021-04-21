@@ -31,3 +31,7 @@ Object-Oriented Language: An Experience Report
 
 ### компилеры
 - [ ] Modern Compiler Implementation in ML
+
+### статейки
+- [x] M. Fowler "Refactoring Module Dependencies"
+
