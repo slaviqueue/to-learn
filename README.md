@@ -11,6 +11,7 @@
 - [ ] Предметно-ориентированные языки программирования – Фаулер Мартин
 - [x] [https://12factor.net/](https://12factor.net/)
 - [x] "Software Architecture Patterns" Mark Richards 
+- [ ] domain driven design (evans)
 
 ### всякое
 - [x] [идеальный программист](https://www.bambook.com/book/rus/idealnyiy-programmist-kak-stat-professionalom-razrabotki-po-1807659?gclid=CjwKCAiAhc7yBRAdEiwAplGxX9Cwg_yIGSStY8sw7SNaERhGAkY7A25BM2gPCuRqWA20vBVHF2C0VBoCP0QQAvD_BwE)
