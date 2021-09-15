@@ -34,6 +34,7 @@ Object-Oriented Language: An Experience Report
 - [x] M. Fowler "Refactoring Module Dependencies"
 - [x] [Composition vs. Inheritance: How to Choose?](https://www.thoughtworks.com/insights/blog/composition-vs-inheritance-how-choose)
 - [ ] [GUI Architectures](https://martinfowler.com/eaaDev/uiArchs.html)
+- [x] [6 Tools for Enforcing Good Web Archtichture](https://jmulholland.com/architecture-tools/) 
 
 ### видео-гайды
 
