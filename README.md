@@ -25,7 +25,7 @@
 - [x] [learn you a haskell for a great good](http://learnyouahaskell.com/)
 - [ ] [Generalizing Hindley-Milner Type Inference Algorithms](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.18.9348&rep=rep1&type=pdf)
 - [ ] B. Pierce "Types And Programming Languages"
-- [ ] Developing a Monadic Type Checker for an
+- [x] Developing a Monadic Type Checker for an
 Object-Oriented Language: An Experience Report
 - [ ] [Subtype inference](https://blog.polybdenum.com/2020/07/04/subtype-inference-by-example-part-1-introducing-cubiml.html)
 - [ ] Modern Compiler Implementation in ML
