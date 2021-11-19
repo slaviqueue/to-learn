@@ -1,8 +1,5 @@
 # чё почитать/посмотреть
 
-### cs
-- [ ] [SICP](http://newstar.rinet.ru/~goga/sicp/sicp.pdf)
-
 ### софтвер дизайн
 - [x] [Clean Architecture](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164)
 - [x] [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/ref=sr_1_1?keywords=clean+code&qid=1637331080&s=books&sr=1-1)
@@ -22,6 +19,7 @@
 
 ### хардкоре
 
+- [ ] [SICP](http://newstar.rinet.ru/~goga/sicp/sicp.pdf)
 - [x] [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/)
 - [ ] [Generalizing Hindley-Milner Type Inference Algorithms](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.18.9348&rep=rep1&type=pdf)
 - [ ] [B. Pierce "Types And Programming Languages"](https://www.cis.upenn.edu/~bcpierce/tapl/)
