@@ -1,6 +1,6 @@
-# чё почитать/посмотреть
+# Чё почитать/посмотреть
 
-### софтвер дизайн
+### Софтвер дизайн
 - [x] [Clean Architecture](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164)
 - [x] [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/ref=sr_1_1?keywords=clean+code&qid=1637331080&s=books&sr=1-1)
 - [x] [Design Patterns: Elements of Reusable Object-Oriented Software](https://en.wikipedia.org/wiki/Design_Patterns)
@@ -11,13 +11,13 @@
 - [x] [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215/ref=sr_1_2?keywords=domain+driven+design&qid=1637331114&s=books&sr=1-2)
 - [x] [Code Complete: A Practical Handbook of Software Construction, Second Edition](https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670/ref=sr_1_1?keywords=code+complete&qid=1637331137&s=books&sr=1-1)
 
-### всякое
+### Всякое
 - [x] [Идеальный Программист](https://www.bambook.com/book/rus/idealnyiy-programmist-kak-stat-professionalom-razrabotki-po-1807659?gclid=CjwKCAiAhc7yBRAdEiwAplGxX9Cwg_yIGSStY8sw7SNaERhGAkY7A25BM2gPCuRqWA20vBVHF2C0VBoCP0QQAvD_BwE)
 - [x] [Getting Real](https://basecamp.com/books/getting-real)
 - [x] [Век Тревожности](https://www.amazon.com/My-Age-Anxiety-Dread-Search-ebook/dp/B00F8F7M58/ref=sr_1_1?crid=6VIQNAH5Q6FH&keywords=scott+stossel&qid=1637331286&s=digital-text&sprefix=scott+sto%2Cdigital-text%2C277&sr=1-1)
 - [ ] [Sapiens: A Brief History of Humankind](https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari-ebook/dp/B00ICN066A/ref=sr_1_1?keywords=sapiens&qid=1637331309&s=digital-text&sr=1-1)
 
-### хардкоре
+### Хардкоре
 
 - [ ] [SICP](http://newstar.rinet.ru/~goga/sicp/sicp.pdf)
 - [x] [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/)
@@ -31,12 +31,12 @@
 ### Математика
 - [ ] [Math for Programmers](https://www.manning.com/books/math-for-programmers)
 
-### статейки
+### Статейки
 - [x] M. Fowler "Refactoring Module Dependencies"
 - [x] [Composition vs. Inheritance: How to Choose?](https://www.thoughtworks.com/insights/blog/composition-vs-inheritance-how-choose)
 - [ ] [GUI Architectures](https://martinfowler.com/eaaDev/uiArchs.html)
 - [x] [6 Tools for Enforcing Good Web Archtichture](https://jmulholland.com/architecture-tools/) 
 
-### видео-гайды
+### Видео-гайды
 
 - [x] [[TechWorld with Nana] kubernetes for beginners](https://www.youtube.com/watch?v=X48VuDVv0do)
