@@ -28,6 +28,9 @@
 - [ ] Modern Compiler Implementation in ML
 - [ ] [Nature of code](https://natureofcode.com/book/introduction/)
 
+### Математика
+- [ ] [Math for Programmers](https://www.manning.com/books/math-for-programmers)
+
 ### статейки
 - [x] M. Fowler "Refactoring Module Dependencies"
 - [x] [Composition vs. Inheritance: How to Choose?](https://www.thoughtworks.com/insights/blog/composition-vs-inheritance-how-choose)
