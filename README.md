@@ -37,6 +37,7 @@
 - [ ] [GUI Architectures](https://martinfowler.com/eaaDev/uiArchs.html)
 - [x] [6 Tools for Enforcing Good Web Archtichture](https://jmulholland.com/architecture-tools/)
 - [x] [Perlin Noise: A Procedural Generation Algorithm](https://rtouti.github.io/graphics/perlin-noise-algorithm)
+- [ ] [The quest of ReactiveScript](https://dev.to/this-is-learning/the-quest-for-reactivescript-3ka3)
 
 ### Видео-гайды
 
