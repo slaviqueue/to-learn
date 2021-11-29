@@ -27,7 +27,7 @@
 - [ ] [Subtype inference](https://blog.polybdenum.com/2020/07/04/subtype-inference-by-example-part-1-introducing-cubiml.html)
 - [ ] Modern Compiler Implementation in ML
 - [ ] [Nature of code](https://natureofcode.com/book/introduction/)
-
+- [ ] [The Book of Shaders](https://thebookofshaders.com/05/)
 ### Математика
 - [ ] [Math for Programmers](https://www.manning.com/books/math-for-programmers)
 
