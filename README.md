@@ -30,6 +30,7 @@
 - [ ] [The Book of Shaders](https://thebookofshaders.com/05/)
 ### Математика
 - [ ] [Math for Programmers](https://www.manning.com/books/math-for-programmers)
+- [x] [Concise tutorial for 2-dimensional convex polygons collision detection using the separating axis theorem](https://hackmd.io/@US4ofdv7Sq2GRdxti381_A/ryFmIZrsl?type=view)
 
 ### Статейки
 - [x] M. Fowler "Refactoring Module Dependencies"
