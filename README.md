@@ -10,6 +10,7 @@
 - [x] ["Software Architecture Patterns" Mark Richards](https://www.goodreads.com/book/show/25091671-software-architecture-patterns)
 - [x] [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215/ref=sr_1_2?keywords=domain+driven+design&qid=1637331114&s=books&sr=1-2)
 - [x] [Code Complete: A Practical Handbook of Software Construction, Second Edition](https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670/ref=sr_1_1?keywords=code+complete&qid=1637331137&s=books&sr=1-1)
+- [ ] [microservices.io](https://microservices.io/)
 
 ### Всякое
 - [x] [Идеальный Программист](https://www.bambook.com/book/rus/idealnyiy-programmist-kak-stat-professionalom-razrabotki-po-1807659?gclid=CjwKCAiAhc7yBRAdEiwAplGxX9Cwg_yIGSStY8sw7SNaERhGAkY7A25BM2gPCuRqWA20vBVHF2C0VBoCP0QQAvD_BwE)
