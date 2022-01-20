@@ -42,6 +42,7 @@
 - [ ] [The quest of ReactiveScript](https://dev.to/this-is-learning/the-quest-for-reactivescript-3ka3)
 - [x] [Simplify Your Pub/Sub Messaging with Amazon SNS Message Filtering](https://aws.amazon.com/blogs/compute/simplify-pubsub-messaging-with-amazon-sns-message-filtering/)
 - [x] [You Cannot Have Exactly-Once Delivery](https://bravenewgeek.com/you-cannot-have-exactly-once-delivery/)
+- [ ] [Postgres indexes for newbies](https://blog.crunchydata.com/blog/postgres-indexes-for-newbies)
 
 ### Видео-гайды
 
