@@ -29,9 +29,14 @@
 - [ ] Modern Compiler Implementation in ML
 - [ ] [Nature of code](https://natureofcode.com/book/introduction/)
 - [ ] [The Book of Shaders](https://thebookofshaders.com/05/)
+
 ### Математика
 - [ ] [Math for Programmers](https://www.manning.com/books/math-for-programmers)
 - [x] [Concise tutorial for 2-dimensional convex polygons collision detection using the separating axis theorem](https://hackmd.io/@US4ofdv7Sq2GRdxti381_A/ryFmIZrsl?type=view)
+
+### c/embedded
+- [x] [Top 20 C pointer mistakes and how to fix them](https://www.acodersjourney.com/top-20-c-pointer-mistakes/)
+- [x] [Low level learning](https://www.youtube.com/c/LowLevelLearning)
 
 ### Статейки
 - [x] M. Fowler "Refactoring Module Dependencies"
