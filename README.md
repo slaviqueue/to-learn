@@ -37,6 +37,7 @@
 ### c/embedded
 - [x] [Top 20 C pointer mistakes and how to fix them](https://www.acodersjourney.com/top-20-c-pointer-mistakes/)
 - [x] [Low level learning](https://www.youtube.com/c/LowLevelLearning)
+- [ ] [https://devtut.github.io/c/](https://devtut.github.io/c/)
 
 ### Статейки
 - [x] M. Fowler "Refactoring Module Dependencies"
