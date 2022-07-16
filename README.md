@@ -18,6 +18,7 @@
 - [x] [Век Тревожности](https://www.amazon.com/My-Age-Anxiety-Dread-Search-ebook/dp/B00F8F7M58/ref=sr_1_1?crid=6VIQNAH5Q6FH&keywords=scott+stossel&qid=1637331286&s=digital-text&sprefix=scott+sto%2Cdigital-text%2C277&sr=1-1)
 - [ ] [Sapiens: A Brief History of Humankind](https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari-ebook/dp/B00ICN066A/ref=sr_1_1?keywords=sapiens&qid=1637331309&s=digital-text&sr=1-1)
 - [x] [The most important talk on programming by Jonathan Blow](https://www.youtube.com/watch?v=dS6rCaDSwW8)
+- [x] [PHP: a fractal of bad design](https://eev.ee/blog/2012/04/09/php-a-fractal-of-bad-design/)
 
 ### Хардкоре
 
