@@ -52,6 +52,7 @@
 - [x] [You Cannot Have Exactly-Once Delivery](https://bravenewgeek.com/you-cannot-have-exactly-once-delivery/)
 - [ ] [Postgres indexes for newbies](https://blog.crunchydata.com/blog/postgres-indexes-for-newbies)
 - [x] [Mocks are not stubs](https://martinfowler.com/articles/mocksArentStubs.html)
+- [ ] [Explain non-blocking io like I'm five](https://dev.to/frosnerd/explain-non-blocking-i-o-like-i-m-five-2a5f)
 
 ### Видео-гайды
 
