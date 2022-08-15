@@ -53,7 +53,7 @@
 - [ ] [Postgres indexes for newbies](https://blog.crunchydata.com/blog/postgres-indexes-for-newbies)
 - [x] [Mocks are not stubs](https://martinfowler.com/articles/mocksArentStubs.html)
 - [ ] [Explain non-blocking io like I'm five](https://dev.to/frosnerd/explain-non-blocking-i-o-like-i-m-five-2a5f)
-
+- [ ] [Writing an event loop in Go](https://overengineered.dev/writing-an-event-loop-in-go)
 ### Видео-гайды
 
 - [x] [[TechWorld with Nana] kubernetes for beginners](https://www.youtube.com/watch?v=X48VuDVv0do)
