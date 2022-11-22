@@ -41,6 +41,7 @@
 - [x] [Low level learning](https://www.youtube.com/c/LowLevelLearning)
 - [ ] [https://devtut.github.io/c/](https://devtut.github.io/c/)
 - [x] [C Programming Language 2nd edition](https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628)
+- [ ] [Modern C++ For C Programmers](https://berthub.eu/articles/posts/c++-1/)
 
 ### Статейки
 - [x] M. Fowler "Refactoring Module Dependencies"
