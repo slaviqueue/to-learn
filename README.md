@@ -1,4 +1,4 @@
-# Чё почитать/посмотреть
+# что почитать/посмотреть
 
 ### Софтвер дизайн
 - [x] [Clean Architecture](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164)
@@ -40,6 +40,7 @@
 - [x] [Top 20 C pointer mistakes and how to fix them](https://www.acodersjourney.com/top-20-c-pointer-mistakes/)
 - [x] [Low level learning](https://www.youtube.com/c/LowLevelLearning)
 - [ ] [https://devtut.github.io/c/](https://devtut.github.io/c/)
+- [x] [C Programming Language 2nd edition](https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628)
 
 ### Статейки
 - [x] M. Fowler "Refactoring Module Dependencies"
