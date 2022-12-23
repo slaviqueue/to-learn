@@ -44,6 +44,7 @@
 - [x] [C Programming Language 2nd edition](https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628)
 - [ ] [Modern C++ For C Programmers](https://berthub.eu/articles/posts/c++-1/)
 - [x] [C Programming Language, 2nd Edition](https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628)
+- [x] [Programming Embedded Systems: With C and GNU Development Tools](https://www.amazon.com/Programming-Embedded-Systems-Development-Tools/dp/0596009836)
 
 ### articlces
 - [x] M. Fowler "Refactoring Module Dependencies"
