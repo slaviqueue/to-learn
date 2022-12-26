@@ -27,6 +27,7 @@
 - [ ] [Modern C++ For C Programmers](https://berthub.eu/articles/posts/c++-1/)
 - [x] [C Programming Language, 2nd Edition](https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628)
 - [x] [Programming Embedded Systems: With C and GNU Development Tools](https://www.amazon.com/Programming-Embedded-Systems-Development-Tools/dp/0596009836)
+- [x] [How radio works](https://electronics.howstuffworks.com/radio.htm)
 
 ### utils
 - [x] [[TechWorld with Nana] kubernetes for beginners](https://www.youtube.com/watch?v=X48VuDVv0do)
@@ -59,3 +60,4 @@
 - [x] [The most important talk on programming by Jonathan Blow](https://www.youtube.com/watch?v=dS6rCaDSwW8)
 - [x] [PHP: a fractal of bad design](https://eev.ee/blog/2012/04/09/php-a-fractal-of-bad-design/)
 - [ ] [The quest of ReactiveScript](https://dev.to/this-is-learning/the-quest-for-reactivescript-3ka3)
+- [x] [keybr.com](https://www.keybr.com/)
