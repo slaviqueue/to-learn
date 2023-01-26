@@ -53,6 +53,9 @@
 - [x] [Concise tutorial for 2-dimensional convex polygons collision detection using the separating axis theorem](https://hackmd.io/@US4ofdv7Sq2GRdxti381_A/ryFmIZrsl?type=view)
 - [x] [Perlin Noise: A Procedural Generation Algorithm](https://rtouti.github.io/graphics/perlin-noise-algorithm)
 
+### aerospace engineering
+- [x] [aerotoolbox.com](https://aerotoolbox.com/)
+
 ### misc stuff
 - [x] [Идеальный Программист](https://www.bambook.com/book/rus/idealnyiy-programmist-kak-stat-professionalom-razrabotki-po-1807659?gclid=CjwKCAiAhc7yBRAdEiwAplGxX9Cwg_yIGSStY8sw7SNaERhGAkY7A25BM2gPCuRqWA20vBVHF2C0VBoCP0QQAvD_BwE)
 - [x] [Getting Real](https://basecamp.com/books/getting-real)
