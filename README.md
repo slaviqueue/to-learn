@@ -54,7 +54,7 @@
 - [x] [Perlin Noise: A Procedural Generation Algorithm](https://rtouti.github.io/graphics/perlin-noise-algorithm)
 
 ### aerospace engineering
-- [x] [aerotoolbox.com](https://aerotoolbox.com/)
+- [x] [Fundamentals Of Aircraft Design](https://aerotoolbox.com/category/aircraft-design/intro-aircraft-design/)
 
 ### misc stuff
 - [x] [Идеальный Программист](https://www.bambook.com/book/rus/idealnyiy-programmist-kak-stat-professionalom-razrabotki-po-1807659?gclid=CjwKCAiAhc7yBRAdEiwAplGxX9Cwg_yIGSStY8sw7SNaERhGAkY7A25BM2gPCuRqWA20vBVHF2C0VBoCP0QQAvD_BwE)
