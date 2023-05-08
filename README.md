@@ -19,7 +19,7 @@
 - [x] [6 Tools for Enforcing Good Web Archtichture](https://jmulholland.com/architecture-tools/)
 - [ ] "Enterprise Integration Patterns" by Hohpe and Woolf
 
-### languages
+### programming languages
 - [x] [The Go Programming Language](https://www.gopl.io/)
 - [x] [C Programming Language 2nd edition](https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628)
 - [x] [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/)
