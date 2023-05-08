@@ -19,13 +19,18 @@
 - [x] [6 Tools for Enforcing Good Web Archtichture](https://jmulholland.com/architecture-tools/)
 - [ ] "Enterprise Integration Patterns" by Hohpe and Woolf
 
+### languages
+- [x] [The Go Programming Language](https://www.gopl.io/)
+- [x] [C Programming Language 2nd edition](https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628)
+- [x] [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/)
+- [x] [PHP: a fractal of bad design](https://eev.ee/blog/2012/04/09/php-a-fractal-of-bad-design/)
+- [ ] [The quest of ReactiveScript](https://dev.to/this-is-learning/the-quest-for-reactivescript-3ka3)
+
 ### low level
 - [x] [Top 20 C pointer mistakes and how to fix them](https://www.acodersjourney.com/top-20-c-pointer-mistakes/)
 - [x] [Low level learning](https://www.youtube.com/c/LowLevelLearning)
 - [ ] [https://devtut.github.io/c/](https://devtut.github.io/c/)
-- [x] [C Programming Language 2nd edition](https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628)
 - [ ] [Modern C++ For C Programmers](https://berthub.eu/articles/posts/c++-1/)
-- [x] [C Programming Language, 2nd Edition](https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628)
 - [x] [Programming Embedded Systems: With C and GNU Development Tools](https://www.amazon.com/Programming-Embedded-Systems-Development-Tools/dp/0596009836)
 - [x] [How radio works](https://electronics.howstuffworks.com/radio.htm)
 - [x] [What happens when you open a terminal and enter ls](https://www.warp.dev/blog/what-happens-when-you-open-a-terminal-and-enter-ls)
@@ -39,7 +44,6 @@
 
 ### hardcore
 - [ ] [SICP](http://newstar.rinet.ru/~goga/sicp/sicp.pdf)
-- [x] [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/)
 - [ ] [Generalizing Hindley-Milner Type Inference Algorithms](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.18.9348&rep=rep1&type=pdf)
 - [ ] [B. Pierce "Types And Programming Languages"](https://www.cis.upenn.edu/~bcpierce/tapl/)
 - [x] [Developing a Monadic Type Checker for an Object-Oriented Language: An Experience Report](https://www.researchgate.net/publication/336424896_Developing_a_monadic_type_checker_for_an_object-oriented_language_an_experience_report)
@@ -62,6 +66,4 @@
 - [x] [Век Тревожности](https://www.amazon.com/My-Age-Anxiety-Dread-Search-ebook/dp/B00F8F7M58/ref=sr_1_1?crid=6VIQNAH5Q6FH&keywords=scott+stossel&qid=1637331286&s=digital-text&sprefix=scott+sto%2Cdigital-text%2C277&sr=1-1)
 - [ ] [Sapiens: A Brief History of Humankind](https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari-ebook/dp/B00ICN066A/ref=sr_1_1?keywords=sapiens&qid=1637331309&s=digital-text&sr=1-1)
 - [x] [The most important talk on programming by Jonathan Blow](https://www.youtube.com/watch?v=dS6rCaDSwW8)
-- [x] [PHP: a fractal of bad design](https://eev.ee/blog/2012/04/09/php-a-fractal-of-bad-design/)
-- [ ] [The quest of ReactiveScript](https://dev.to/this-is-learning/the-quest-for-reactivescript-3ka3)
 - [x] [keybr.com](https://www.keybr.com/)
