@@ -51,6 +51,7 @@
 - [ ] Modern Compiler Implementation in ML
 - [ ] [Nature of code](https://natureofcode.com/book/introduction/)
 - [ ] [The Book of Shaders](https://thebookofshaders.com/05/)
+- [ ] [Build your own compiler](https://build-your-own.org/blog/20230507_byoc_new/?v=20230507)
 
 ### math
 - [ ] [Math for Programmers](https://www.manning.com/books/math-for-programmers)
