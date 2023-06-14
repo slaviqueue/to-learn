@@ -41,6 +41,7 @@
 - [ ] [Postgres indexes for newbies](https://blog.crunchydata.com/blog/postgres-indexes-for-newbies)
 - [ ] [Explain non-blocking io like I'm five](https://dev.to/frosnerd/explain-non-blocking-i-o-like-i-m-five-2a5f)
 - [ ] [Writing an event loop in Go](https://overengineered.dev/writing-an-event-loop-in-go)
+- [x] [Python Best Practices for a New Project in 2021](https://mitelman.engineering/blog/python-best-practice/automating-python-best-practices-for-a-new-project/)
 
 ### hardcore
 - [ ] [SICP](http://newstar.rinet.ru/~goga/sicp/sicp.pdf)
