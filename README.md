@@ -58,6 +58,7 @@
 - [ ] [Math for Programmers](https://www.manning.com/books/math-for-programmers)
 - [x] [Concise tutorial for 2-dimensional convex polygons collision detection using the separating axis theorem](https://hackmd.io/@US4ofdv7Sq2GRdxti381_A/ryFmIZrsl?type=view)
 - [x] [Perlin Noise: A Procedural Generation Algorithm](https://rtouti.github.io/graphics/perlin-noise-algorithm)
+- [ ] [Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares](https://web.stanford.edu/~boyd/vmls/)
 
 ### aerospace engineering
 - [x] [Fundamentals Of Aircraft Design](https://aerotoolbox.com/category/aircraft-design/intro-aircraft-design/)
