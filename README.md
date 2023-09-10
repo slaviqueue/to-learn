@@ -53,12 +53,16 @@
 - [ ] [Nature of code](https://natureofcode.com/book/introduction/)
 - [ ] [The Book of Shaders](https://thebookofshaders.com/05/)
 - [ ] [Build your own compiler](https://build-your-own.org/blog/20230507_byoc_new/?v=20230507)
+- [ ] [So You Want to Build an Embedded Linux System](https://jaycarlson.net/embedded-linux/)
 
 ### math
 - [ ] [Math for Programmers](https://www.manning.com/books/math-for-programmers)
 - [x] [Concise tutorial for 2-dimensional convex polygons collision detection using the separating axis theorem](https://hackmd.io/@US4ofdv7Sq2GRdxti381_A/ryFmIZrsl?type=view)
 - [x] [Perlin Noise: A Procedural Generation Algorithm](https://rtouti.github.io/graphics/perlin-noise-algorithm)
 - [ ] [Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares](https://web.stanford.edu/~boyd/vmls/)
+
+### machine learning
+- [ ] [Neural networks and Deep Learning](http://neuralnetworksanddeeplearning.com/chap1.html)
 
 ### aerospace engineering
 - [x] [Fundamentals Of Aircraft Design](https://aerotoolbox.com/category/aircraft-design/intro-aircraft-design/)
