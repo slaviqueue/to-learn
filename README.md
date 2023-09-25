@@ -18,6 +18,7 @@
 - [ ] [GUI Architectures](https://martinfowler.com/eaaDev/uiArchs.html)
 - [x] [6 Tools for Enforcing Good Web Archtichture](https://jmulholland.com/architecture-tools/)
 - [ ] "Enterprise Integration Patterns" by Hohpe and Woolf
+- [x] [You Want Modules, Not Microservices](https://blogs.newardassociates.com/blog/2023/you-want-modules-not-microservices.html)
 
 ### programming languages
 - [x] [The Go Programming Language](https://www.gopl.io/)
