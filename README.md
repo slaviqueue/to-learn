@@ -5,7 +5,6 @@
 - [x] [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/ref=sr_1_1?keywords=clean+code&qid=1637331080&s=books&sr=1-1)
 - [x] [Design Patterns: Elements of Reusable Object-Oriented Software](https://en.wikipedia.org/wiki/Design_Patterns)
 - [x] [Шаблоны корпоративных приложений](https://www.ozon.ru/product/shablony-korporativnyh-prilozheniy-4884925/?sh=vQ3_apv6)
-- [ ] [Предметно-ориентированные языки программирования – Фаулер Мартин](https://books.google.fi/books/about/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D0%BD%D0%BE_%D0%BE%D1%80%D0%B8%D0%B5%D0%BD%D1%82%D0%B8%D1%80%D0%BE%D0%B2.html?id=abvADwAAQBAJ&redir_esc=y)
 - [x] [https://12factor.net/](https://12factor.net/)
 - [x] ["Software Architecture Patterns" Mark Richards](https://www.goodreads.com/book/show/25091671-software-architecture-patterns)
 - [x] [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215/ref=sr_1_2?keywords=domain+driven+design&qid=1637331114&s=books&sr=1-2)
@@ -67,13 +66,14 @@
 ### machine learning
 - [ ] [Neural networks and Deep Learning](http://neuralnetworksanddeeplearning.com/chap1.html)
 
-### aerospace engineering
+### physics
+- [ ] [Classical Mechanics by John R. Taylor](https://neuroself.files.wordpress.com/2020/09/taylor-2005-classical-mechanics.pdf)
 - [x] [Fundamentals Of Aircraft Design](https://aerotoolbox.com/category/aircraft-design/intro-aircraft-design/)
 
 ### misc stuff
-- [x] [Идеальный Программист](https://www.bambook.com/book/rus/idealnyiy-programmist-kak-stat-professionalom-razrabotki-po-1807659?gclid=CjwKCAiAhc7yBRAdEiwAplGxX9Cwg_yIGSStY8sw7SNaERhGAkY7A25BM2gPCuRqWA20vBVHF2C0VBoCP0QQAvD_BwE)
+- [x] [Clean Coder](https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073)
 - [x] [Getting Real](https://basecamp.com/books/getting-real)
-- [x] [Век Тревожности](https://www.amazon.com/My-Age-Anxiety-Dread-Search-ebook/dp/B00F8F7M58/ref=sr_1_1?crid=6VIQNAH5Q6FH&keywords=scott+stossel&qid=1637331286&s=digital-text&sprefix=scott+sto%2Cdigital-text%2C277&sr=1-1)
+- [x] [My Age of Anxiety](https://www.amazon.com/My-Age-Anxiety-Dread-Search-ebook/dp/B00F8F7M58/ref=sr_1_1?crid=6VIQNAH5Q6FH&keywords=scott+stossel&qid=1637331286&s=digital-text&sprefix=scott+sto%2Cdigital-text%2C277&sr=1-1)
 - [x] [Sapiens: A Brief History of Humankind](https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari-ebook/dp/B00ICN066A/ref=sr_1_1?keywords=sapiens&qid=1637331309&s=digital-text&sr=1-1)
 - [x] [The most important talk on programming by Jonathan Blow](https://www.youtube.com/watch?v=dS6rCaDSwW8)
 - [x] [keybr.com](https://www.keybr.com/)
