@@ -61,6 +61,8 @@
 - [x] [Perlin Noise: A Procedural Generation Algorithm](https://rtouti.github.io/graphics/perlin-noise-algorithm)
 - [x] [Calculus 1 with the Math Sorcerer](https://www.udemy.com/course/calculus-1-with-the-math-sorcerer)
 - [ ] [Math for Programmers](https://www.manning.com/books/math-for-programmers)
+- [ ] [Thomas' Calculus by George B. Thomas Jr.](https://rodrigopacios.github.io/mrpacios/download/Thomas_Calculus.pdf)
+- [x] [Become a Trigonometry & Precalculus Master](https://www.udemy.com/course/trig-by-krista-king/)
 
 ### machine learning
 - [ ] [Neural networks and Deep Learning](http://neuralnetworksanddeeplearning.com/chap1.html)
