@@ -34,7 +34,8 @@
 - [x] [What happens when you open a terminal and enter ls](https://www.warp.dev/blog/what-happens-when-you-open-a-terminal-and-enter-ls)
 - [ ] [https://devtut.github.io/c/](https://devtut.github.io/c/)
 - [ ] [Modern C++ For C Programmers](https://berthub.eu/articles/posts/c++-1/)
-- [ ] [Modern embedded systems programming course](https://youtube.com/playlist?list=PLPW8O6W-1chwyTzI3BHwBLbGQoPFxPAPM&si=nDVpnpvuBy1waAQb)
+- [ ] [Modern Embedded Systems Programming Course](https://youtube.com/playlist?list=PLPW8O6W-1chwyTzI3BHwBLbGQoPFxPAPM&si=nDVpnpvuBy1waAQb)
+- [ ] [Blinky to Bootloader: Bare Metal Programming Series](https://youtube.com/playlist?list=PLP29wDx6QmW7HaCrRydOnxcy8QmW0SNdQ&si=08PJwZa4z4_6bdjz)
 
 ### utils
 - [x] [[TechWorld with Nana] kubernetes for beginners](https://www.youtube.com/watch?v=X48VuDVv0do)
