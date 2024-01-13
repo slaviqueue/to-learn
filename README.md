@@ -62,6 +62,8 @@
 - [x] [Perlin Noise: A Procedural Generation Algorithm](https://rtouti.github.io/graphics/perlin-noise-algorithm)
 - [x] [Calculus 1 with the Math Sorcerer](https://www.udemy.com/course/calculus-1-with-the-math-sorcerer)
 - [x] [Become a Trigonometry & Precalculus Master](https://www.udemy.com/course/trig-by-krista-king/)
+- [x] [Become a Calculus 1 Master](https://www.udemy.com/course/calculus1/)
+- [ ] [Become a Calculus 2 Master](https://www.udemy.com/course/calculus-2/)
 - [ ] [Thomas' Calculus by George B. Thomas Jr.](https://rodrigopacios.github.io/mrpacios/download/Thomas_Calculus.pdf)
 - [ ] [Math for Programmers](https://www.manning.com/books/math-for-programmers)
 
@@ -72,7 +74,7 @@
 - [x] [Fundamentals Of Aircraft Design](https://aerotoolbox.com/category/aircraft-design/intro-aircraft-design/)
 - [ ] [Classical Mechanics by John R. Taylor](https://neuroself.files.wordpress.com/2020/09/taylor-2005-classical-mechanics.pdf)
 
-### misc stuff
+### non-tech
 - [x] [Clean Coder](https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073)
 - [x] [Getting Real](https://basecamp.com/books/getting-real)
 - [x] [My Age of Anxiety](https://www.amazon.com/My-Age-Anxiety-Dread-Search-ebook/dp/B00F8F7M58/ref=sr_1_1?crid=6VIQNAH5Q6FH&keywords=scott+stossel&qid=1637331286&s=digital-text&sprefix=scott+sto%2Cdigital-text%2C277&sr=1-1)
