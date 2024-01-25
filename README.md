@@ -41,6 +41,7 @@
 - [x] [[TechWorld with Nana] kubernetes for beginners](https://www.youtube.com/watch?v=X48VuDVv0do)
 - [x] [Simplify Your Pub/Sub Messaging with Amazon SNS Message Filtering](https://aws.amazon.com/blogs/compute/simplify-pubsub-messaging-with-amazon-sns-message-filtering/)
 - [x] [Python Best Practices for a New Project in 2021](https://mitelman.engineering/blog/python-best-practice/automating-python-best-practices-for-a-new-project/)
+- [x] [Node.js Streams: Everything you need to know](https://www.freecodecamp.org/news/node-js-streams-everything-you-need-to-know-c9141306be93/)
 - [ ] [Postgres indexes for newbies](https://blog.crunchydata.com/blog/postgres-indexes-for-newbies)
 - [ ] [Explain non-blocking io like I'm five](https://dev.to/frosnerd/explain-non-blocking-i-o-like-i-m-five-2a5f)
 - [ ] [Writing an event loop in Go](https://overengineered.dev/writing-an-event-loop-in-go)
