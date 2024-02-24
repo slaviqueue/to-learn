@@ -73,7 +73,7 @@
 
 ### physics
 - [x] [Fundamentals Of Aircraft Design](https://aerotoolbox.com/category/aircraft-design/intro-aircraft-design/)
-- [ ] [Physics library on Khan Academy](https://www.khanacademy.org/science/physics)
+- [ ] [College Physics 2e](https://openstax.org/details/books/college-physics-2e)
 - [ ] [Classical Mechanics by John R. Taylor](https://neuroself.files.wordpress.com/2020/09/taylor-2005-classical-mechanics.pdf)
 
 ### non-tech
