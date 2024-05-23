@@ -73,7 +73,8 @@
 
 ### physics
 - [x] [Fundamentals Of Aircraft Design](https://aerotoolbox.com/category/aircraft-design/intro-aircraft-design/)
-- [ ] [College Physics 2e](https://openstax.org/details/books/college-physics-2e)
+- [x] [College Physics 2e](https://openstax.org/details/books/college-physics-2e)
+- [ ] [Practical Electronics for Inventors, Fourth Edition](https://www.amazon.com/Practical-Electronics-Inventors-Fourth-Scherz/dp/1259587541)
 - [ ] [Classical Mechanics by John R. Taylor](https://neuroself.files.wordpress.com/2020/09/taylor-2005-classical-mechanics.pdf)
 
 ### non-tech
