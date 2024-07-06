@@ -57,6 +57,7 @@
 - [ ] [The Book of Shaders](https://thebookofshaders.com/05/)
 - [ ] [Build your own compiler](https://build-your-own.org/blog/20230507_byoc_new/?v=20230507)
 - [ ] [So You Want to Build an Embedded Linux System](https://jaycarlson.net/embedded-linux/)
+- [ ] [Modern Compiler Implementation in C](https://www.amazon.com/dp/0521607655)
 
 ### math
 - [x] [Concise tutorial for 2-dimensional convex polygons collision detection using the separating axis theorem](https://hackmd.io/@US4ofdv7Sq2GRdxti381_A/ryFmIZrsl?type=view)
