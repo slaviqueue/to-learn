@@ -33,6 +33,7 @@
 - [x] [How radio works](https://electronics.howstuffworks.com/radio.htm)
 - [x] [What happens when you open a terminal and enter ls](https://www.warp.dev/blog/what-happens-when-you-open-a-terminal-and-enter-ls)
 - [x] [Everything You Never Wanted To Know About Linker Script](https://mcyoung.xyz/2021/06/01/linker-script/)
+- [ ] [Bare Metal Embedded Programming: Theory and Practice Using STM32](https://www.youtube.com/playlist?list=PL4cGeWgaBTe155QQSQ72DksLIjBn5Jn2Z)
 - [ ] [The most thoroughly commented linker script (probably)](https://blog.thea.codes/the-most-thoroughly-commented-linker-script/)
 - [ ] [https://devtut.github.io/c/](https://devtut.github.io/c/)
 - [ ] [Modern C++ For C Programmers](https://berthub.eu/articles/posts/c++-1/)
