@@ -32,6 +32,8 @@
 - [x] [Programming Embedded Systems: With C and GNU Development Tools](https://www.amazon.com/Programming-Embedded-Systems-Development-Tools/dp/0596009836)
 - [x] [How radio works](https://electronics.howstuffworks.com/radio.htm)
 - [x] [What happens when you open a terminal and enter ls](https://www.warp.dev/blog/what-happens-when-you-open-a-terminal-and-enter-ls)
+- [x] [Everything You Never Wanted To Know About Linker Script](https://mcyoung.xyz/2021/06/01/linker-script/)
+- [ ] [The most thoroughly commented linker script (probably)](https://blog.thea.codes/the-most-thoroughly-commented-linker-script/)
 - [ ] [https://devtut.github.io/c/](https://devtut.github.io/c/)
 - [ ] [Modern C++ For C Programmers](https://berthub.eu/articles/posts/c++-1/)
 - [ ] [Modern Embedded Systems Programming Course](https://youtube.com/playlist?list=PLPW8O6W-1chwyTzI3BHwBLbGQoPFxPAPM&si=nDVpnpvuBy1waAQb)
