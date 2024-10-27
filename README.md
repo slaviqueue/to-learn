@@ -1,6 +1,9 @@
 # 🤓
 
+Here I keep books, courses, videos, articles and other useful things that I already have or going to absorb in future.
+
 ### Software design and architecture
+
 #### 📕Books
 
 - [x] [Clean Architecture](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164)
@@ -11,6 +14,7 @@
 - [x] [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215/ref=sr_1_2?keywords=domain+driven+design&qid=1637331114&s=books&sr=1-2)
 - [x] [Code Complete: A Practical Handbook of Software Construction, Second Edition](https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670/ref=sr_1_1?keywords=code+complete&qid=1637331137&s=books&sr=1-1)
 - [ ] "Enterprise Integration Patterns" by Hohpe and Woolf
+
 #### 🗒️Articles
 
 - [x] M. Fowler "Refactoring Module Dependencies"
@@ -33,6 +37,7 @@
 - [x] [The Go Programming Language](https://www.gopl.io/)
 - [x] [C Programming Language 2nd edition](https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628)
 - [x] [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/)
+
 #### 🗒️Articles
 
 - [x] [PHP: a fractal of bad design](https://eev.ee/blog/2012/04/09/php-a-fractal-of-bad-design/)
@@ -139,6 +144,7 @@
 - [x] [Getting Real](https://basecamp.com/books/getting-real)
 - [x] [My Age of Anxiety](https://www.amazon.com/My-Age-Anxiety-Dread-Search-ebook/dp/B00F8F7M58/ref=sr_1_1?crid=6VIQNAH5Q6FH&keywords=scott+stossel&qid=1637331286&s=digital-text&sprefix=scott+sto%2Cdigital-text%2C277&sr=1-1)
 - [x] [Sapiens: A Brief History of Humankind](https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari-ebook/dp/B00ICN066A/ref=sr_1_1?keywords=sapiens&qid=1637331309&s=digital-text&sr=1-1)
+
 #### 🗃️ Other resources
 
 - [x] [The most important talk on programming by Jonathan Blow](https://www.youtube.com/watch?v=dS6rCaDSwW8)
