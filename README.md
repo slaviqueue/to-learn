@@ -35,6 +35,7 @@
 - [x] [Everything You Never Wanted To Know About Linker Script](https://mcyoung.xyz/2021/06/01/linker-script/)
 - [x] [Write your Own Virtual Machine](https://www.jmeiners.com/lc3-vm/)
 - [x] [Bare Metal Embedded Programming: Theory and Practice Using STM32](https://www.youtube.com/playlist?list=PL4cGeWgaBTe155QQSQ72DksLIjBn5Jn2Z)
+- [x] [x64 Assembly Language Step-by-Step: Programming with Linux (Tech Today)](https://www.amazon.com/x64-Assembly-Language-Step-Step-dp-1394155247/dp/1394155247/ref=dp_ob_title_bk)
 - [ ] [Mastering STM32](https://www.carminenoviello.com/mastering-stm32/)
 - [ ] [Introduction to Computing Systems: From Bits & Gates to C/C++ & Beyond](https://icourse.club/uploads/files/96a2b94d4be48285f2605d843a1e6db37da9a944.pdf)
 - [ ] [The most thoroughly commented linker script (probably)](https://blog.thea.codes/the-most-thoroughly-commented-linker-script/)
