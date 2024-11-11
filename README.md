@@ -106,6 +106,7 @@ Here I keep books, courses, videos, articles and other useful things that I alre
 
 #### 📕Books
 
+- [ ] [3D Math Primer for Graphics and Game Development](https://gamemath.com/)
 - [ ] [Thomas' Calculus by George B. Thomas Jr.](https://rodrigopacios.github.io/mrpacios/download/Thomas_Calculus.pdf)
 - [ ] [Math for Programmers](https://www.manning.com/books/math-for-programmers)
 
